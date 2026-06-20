@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/BiswasNehaa" width="120" style="border-radius: 50%;" />
-</p>
-
-<h1 align="center">Neha</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building%2C+breaking%2C+and+figuring+it+out." alt="Typing SVG" />
+  <img src="banner.png" width="100%" />
 </p>
 
 ---
