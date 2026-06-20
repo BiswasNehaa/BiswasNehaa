@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Neha 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Exploring+Python+%26+AI+%F0%9F%90%8D;Learning+RAG+%26+LLMs+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%9A%80;Currently+contributing+to+BeeAI+Framework" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building%2C+breaking%2C+and+figuring+it+out.;Code+today%2C+better+code+tomorrow." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,35 +9,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=BiswasNehaa&style=for-the-badge&color=58A6FF&label=Profile+Views" />
-</p>
-
----
-
-### 🧠 About Me
-
-- 🎓 Student, currently exploring **Python**, **AI/ML**, and **RAG (Retrieval-Augmented Generation)**
-- 🛠️ Learning by doing — actively contributing to real-world open source projects
-- 🐝 Recently shipped fixes to **[BeeAI Framework](https://github.com/i-am-bee/beeai-framework)** (IBM / Linux Foundation AI project)
-- 📚 Building my own AI projects, including a RAG-based academic advisor
-- 🌱 Believer in learning in public — every PR, every bug, every fix is a lesson
-- 💬 Open to collaborating on beginner-friendly Python/AI projects
-
----
-
-### 🚀 What I'm Working On
-
-| Project | Description |
-|---|---|
-| 🤖 [universal-academic-advisor](https://github.com/BiswasNehaa/universal-academic-advisor) | RAG-based system that helps students choose courses & careers |
-| 🐝 [beeai-framework contributions](https://github.com/i-am-bee/beeai-framework) | Bug fixes & improvements to an open-source AI agent framework |
-| 🐍 [Python-Fundamentals](https://github.com/BiswasNehaa/Python-Fundamentals) | My Python learning journey, documented |
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js" />
 </p>
 
 ---
@@ -66,4 +37,3 @@
 <p align="center">
   <i>⭐ "Every expert was once a beginner who refused to give up." ⭐</i>
 </p>
-
