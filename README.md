@@ -7,8 +7,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BiswasNehaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiswasNehaa&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=BiswasNehaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true&hide_title=true" width="48%" />
+  <img src="https://git-streak-stats.herokuapp.com/?user=BiswasNehaa&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
