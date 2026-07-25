@@ -1,5 +1,4 @@
 name: Update Streak Stats
-
 on:
   schedule:
     - cron: "0 3 * * *" # Runs every day automatically
@@ -7,7 +6,6 @@ on:
     branches:
       - main
   workflow_dispatch: # Allows you to run it manually anytime
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,14 +13,12 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
-      - name: Update streak stats
-        uses: DenverCoder1/github-readme-streak-stats-action@v1.1.2
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: BiswasNehaa
-          theme: tokyonight
-          hide_border: true
-
+          options: user=BiswasNehaa&theme=tokyonight&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
