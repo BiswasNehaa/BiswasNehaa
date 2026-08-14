@@ -7,13 +7,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BiswasNehaa&theme=tokyonight&hide_border=true&cache_seconds=0" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=BiswasNehaa&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
 ### 🔥 Overview Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BiswasNehaa&theme=tokyonight&hide_border=true" width="60%" />
+ ---
+### 🔥 Overview Stats
+<p align="center">
+  <img src="https://github-readme-stats-dusky-psi-17.vercel.app/api?username=BiswasNehaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide=stars" width="60%" />
+</p>
 </p>
 
 
