@@ -7,7 +7,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BiswasNehaa&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=BiswasNehaa&theme=tokyonight&hide_border=true&cache_seconds=0" width="60%" />
 </p>
 
 ---
