@@ -7,7 +7,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=BiswasNehaa&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" width="60%" />
+  <img src="https://github-readme-streak-vercel.vercel.app/?user=BiswasNehaa&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" width="60%" />
 </p>
 
 ---
